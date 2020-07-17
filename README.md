@@ -1,6 +1,6 @@
 ![](http://artikel.gebes.eu/heythere-shadow.png)
 <div align="center">
-I am a young app developer from austria who just loves to create wonderful apps
+**I am a young app developer from austria who just loves to create wonderful apps**
 </div>
 <!--
 **Gebes/Gebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
