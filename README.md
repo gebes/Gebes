@@ -1,4 +1,4 @@
-![](http://artikel.gebes.eu/heythere.png)
+![](http://artikel.gebes.eu/heythere-shadow.png)
 I am a young app developer from austria who just loves to create wonderful apps
 
 <!--
